@@ -1,4 +1,4 @@
-import Layout from "./sass/components/Layout";
+import Layout from "./components/Layout";
 import ErrorPage from "./pages/ErrorPage";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Routes } from "./Routes";
